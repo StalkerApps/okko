@@ -1,0 +1,47 @@
+{
+    "name": "OKKO",
+    "version": "1.0.0",
+    "description": "Okko - это онлайн-кинотеатр. Смотрите новинки кино и сериалов в превосходном качестве: легально, безопасно, без рекламы.",
+    "author": {
+        "name": "Infomir",
+        "email": "support@infomir.eu"
+    },
+    "config": {
+        "type": "app",
+        "category": "apps",
+        "name": "OKKO",
+        "legacy": true,
+        "description": "Okko - это онлайн-кинотеатр. Смотрите новинки кино и сериалов в превосходном качестве: легально, безопасно, без рекламы.",
+        "uris": {
+            "app": "app",
+            "entry": "index.html",
+            "icons": {
+                "480": {
+                    "logoNormal": "img/480/normal.png",
+                    "logoActive": "img/480/active.png"
+                },
+                "576": {
+                    "logoNormal": "img/576/normal.png",
+                    "logoActive": "img/576/active.png"
+                },
+                "720": {
+                    "logoNormal": "img/720/normal.png",
+                    "logoActive": "img/720/active.png"
+                },
+                "1080": {
+                    "logoNormal": "img/1080/normal.png",
+                    "logoActive": "img/1080/active.png"
+                }
+            }
+        },
+        "colors": {
+            "splashFont": "#fff",
+            "splashBackground": "#000"
+        }
+    },
+    "keywords": [
+        "magsdk",
+        "stalker",
+        "okko"
+    ]
+}
